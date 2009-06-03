@@ -1,0 +1,1167 @@
+<?xml version="1.0"?>
+<iSiloXDocumentList>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Complete Sherlock Holmes.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\A Study In Scarlet.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Sign Of The Four.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Adventures.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\A Scandal In Bohemia.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Red-Headed League.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\A Case Of Identity.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Boscombe Valley Mystery.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Five Orange Pips.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Man With The Twisted Lip.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Blue Carbuncle.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Speckled Band.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Engineers Thumb.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Noble Bachelor.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Beryl Coronet.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Copper Beeches.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Memoirs Of Sherlock Holmes.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Silver Blaze.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Cardboard Box.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Yellow Face.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Stockbrokers Clerk.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Gloria Scott.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Musgrave Ritual.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Reigate Squire.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Crooked Man.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Resident Patient.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Greek Interpreter.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Naval Treaty.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Final Problem.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Hound Of The Baskervilles.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Return Of Sherlock Holmes.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Empty House.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Norwood Builder.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Dancing Men.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Solitary Cyclist.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Priory School.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Black Peter.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Charles Augustus Milverton.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Six Napoleons.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Three Students.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Golden Pince-Nez.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Missing Three-Quarter.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Abbey Grange.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Second Stain.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Last Bow.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Last Bow Preface.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Wisteria Lodge.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Bruce-Partington Plans.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Devils Foot.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Red Circle.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Lady Frances Carfax.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Dying Detective.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\His Last Bow.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Valley Of Fear.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Case Book.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\case book preface.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Mazarin Stone.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Thor Bridge.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Creeping Man.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Sussex Vampire.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Three Garridebs.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Illustrious Client.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Three Gables.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Blanched Soldier.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Lions Mane.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Retired Colourman.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\The Veiled Lodger.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\Shoscombe Old Place.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\acd.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>Complete Sherlock Holmes</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks1.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="7075437"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>Complete Sherlock Holmes</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\A Study In Scarlet.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>A Study In Scarlet</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="1"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="no"/>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="189907"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>A Study In Scarlet</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\The Sign Of The Four.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Sign Of The Four</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="1"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="no"/>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="191297"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Sign Of The Four</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Hound Of The Baskervilles.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Hound Of The Baskervilles</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="1"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="no"/>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="256554"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Hound Of The Baskervilles</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\The Valley Of Fear.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Valley Of Fear</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="1"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="no"/>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="241033"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Valley Of Fear</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Adventures.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Adventures Of Sherlock Holmes</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks2.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="1257867"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Adventures Of Sherlock Holmes</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Memoirs Of Sherlock Holmes.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Memoirs Of Sherlock Holmes</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks3.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="1303124"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Memoirs Of Sherlock Holmes</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Return Of Sherlock Holmes.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Return Of Sherlock Holmes</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks4.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="1486871"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Return Of Sherlock Holmes</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Last Bow.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>His Last Bow</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks5.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="838054"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>His Last Bow</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+  <iSiloXDocument>
+    <Source>
+      <Sources>
+        <Path>y:\Documents\iSilo\Holmes\Case Book.html</Path>
+        <Path>y:\Documents\iSilo\Holmes\ack.html</Path>
+      </Sources>
+      <CharSet>UTF-8</CharSet>
+    </Source>
+    <Destination>
+      <Title>The Case Book Of Sherlock Holmes</Title>
+      <Files>
+        <Path>y:\Documents\iSilo\Holmes\</Path>
+      </Files>
+    </Destination>
+    <LinkOptions>
+      <MaximumDepth value="3"/>
+      <FollowOffsite value="no"/>
+      <MaximumOffsiteDepth value="1"/>
+      <SubDirOnly value="no"/>
+      <UnresolvedDetail value="include"/>
+    </LinkOptions>
+    <ImageOptions>
+      <AltText value="exclude"/>
+      <Images value="include"/>
+      <ResizeLargeImages value="yes"/>
+      <ImproveContrast value="yes"/>
+      <Dither value="yes"/>
+      <MaximumWidth value="304"/>
+      <MaximumHeight value="264"/>
+      <Compress value="yes"/>
+      <BitDepth1 value="exclude"/>
+      <BitDepth2 value="exclude"/>
+      <BitDepth4 value="exclude"/>
+      <BitDepth8 value="exclude"/>
+      <BitDepth16 value="include"/>
+      <LossyLevel value="none"/>
+      <LossyQuality value="75"/>
+    </ImageOptions>
+    <TableOptions>
+      <IgnoreTables value="no"/>
+      <AddSeparators value="no"/>
+      <UseMinimumDepth value="no"/>
+      <MinimumDepth value="1"/>
+      <UseMaximumBottomReach value="no"/>
+      <MaximumBottomReach value="1"/>
+      <UnfoldFullPageTables value="no"/>
+      <IgnorePixelWidths value="no"/>
+    </TableOptions>
+    <ColorOptions>
+      <BackgroundColors value="keep"/>
+      <TextColors value="keep"/>
+    </ColorOptions>
+    <MarginOptions>
+      <LeftRightMargins value="keep"/>
+      <LeftRightPadding value="keep"/>
+    </MarginOptions>
+    <SecurityOptions>
+      <Convert value="allow"/>
+      <CopyBeam value="allow"/>
+      <CopyAndPaste value="allow"/>
+      <Modify value="allow"/>
+      <Print value="allow"/>
+    </SecurityOptions>
+    <TextOptions>
+      <PreUseMonospaceFont value="no"/>
+      <PreSingleLineBreaks value="KeepAll"/>
+      <ProcessLineBreaks value="yes"/>
+      <ConvertSingleLineBreaks value="no"/>
+      <Preformatted value="no"/>
+      <UseMonospaceFont value="no"/>
+      <MonospaceFontSize value="10"/>
+      <TabStopWidth value="8"/>
+    </TextOptions>
+    <DocumentOptions>
+      <PageBounds value="soft"/>
+      <UseDefaultCategory value="no"/>
+      <HomePageNumber value="1"/>
+      <OpenHomePageOnDateChange value="no"/>
+      <CharSet>UTF-8</CharSet>
+    </DocumentOptions>
+    <Bookmarks>
+      <Document>
+        <UseFile value="yes"/>
+        <Path>y:\Documents\iSilo\Holmes\bmarks6.html</Path>
+        <UseNamedAnchors value="no"/>
+        <NamedAnchorType value="all"/>
+        <UseIncludeFilter value="no"/>
+        <UseExcludeFilter value="no"/>
+      </Document>
+    </Bookmarks>
+    <LastConversion>
+      <Date>2008/02/04 19:32:19</Date>
+      <Size value="1284982"/>
+      <Status>Successful conversion</Status>
+    </LastConversion>
+    <Messages>
+      <Title>The Case Book Of Sherlock Holmes</Title>
+      <Version>1.0</Version>
+      <Notes>Corrections to this document are most welcome. Please email them to me using the address given in the publisher contact details.</Notes>
+      <AuthorName>Sir Srthur Conan Doyle</AuthorName>
+      <PublisherName>Steve Hodgson</PublisherName>
+      <PublisherContact>steve@shodgson.org.uk</PublisherContact>
+    </Messages>
+    <Targets>
+      <Export value="none"/>
+      <Lookup value="ByName"/>
+      <GenerateMapFile value="no"/>
+      <MapFile>Zen :Users:steve:Holmes:targets.map</MapFile>
+    </Targets>
+  </iSiloXDocument>
+</iSiloXDocumentList>

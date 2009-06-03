@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DatabaseName</key>
+	<string>Complete Sherlock Holmes</string>
+	<key>History</key>
+	<false/>
+	<key>LastBackup</key>
+	<date>2009-05-16T12:20:34Z</date>
+	<key>Properties</key>
+	<false/>
+	<key>SearchGlobal</key>
+	<true/>
+	<key>SearchPrefix</key>
+	<true/>
+	<key>SearchWhat</key>
+	<integer>65535</integer>
+	<key>ThinkWindowState</key>
+	<array>
+		<dict>
+			<key>ID</key>
+			<integer>2147483645</integer>
+			<key>Key</key>
+			<string>ContentsBrowser-Complete Sherlock Holmes.dtBase2-0</string>
+		</dict>
+	</array>
+	<key>openedByHost</key>
+	<data>
+	ABfyxLWQ
+	</data>
+</dict>
+</plist>
